@@ -16,13 +16,13 @@ Practice of implementing the Asset Administration Shell Universal Robot UR5e in 
 Directory Structure
 The repository is organized into three main folders:
 
-1. Report
+1. Report:
 This folder contains the project report in the form of a PDF document.
 
-2. Presentation
+2. Presentation:
 This folder contains the presentation slides in the form of a PDF document.
 
-3. Implementation
+3. Implementation:
 This folder contains the implementation files for the project. The files included are as follows:
 
 I. AAS_Universal_Robot_UR5e.aasx: This file contains the Asset Administration Shell (AAS) for the Universal Robot UR5e.
