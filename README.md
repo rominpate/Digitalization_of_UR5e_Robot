@@ -18,13 +18,10 @@ The repository is organized into three main folders:
 
 1. Report:
 This folder contains the project report in the form of a PDF document.
-
 2. Presentation:
 This folder contains the presentation slides in the form of a PDF document.
-
 3. Implementation:
 This folder contains the implementation files for the project. The files included are as follows:
-
 I. AAS_Universal_Robot_UR5e.aasx: This file contains the Asset Administration Shell (AAS) for the Universal Robot UR5e.
 
 II. AAS_Universal_Robot_UR5e.xml: This file likely contains the XML representation of the Asset Administration Shell (AAS) for the Universal Robot UR5e.
@@ -33,8 +30,6 @@ III. OPCUA_Client_Communication_with_OPCUA_Server_UR5e.py: This Python script is
 
 IV. OPCUA_Server_Based_on_AAS.py: This Python script is likely an OPC UA server implementation based on the Asset Administration Shell (AAS) for the Universal Robot UR5e.
 
-V. OPCUA_Server_Based_on_AAS.py (Note: This file name is repeated, and it might be a typo or duplicate entry in the list. You might want to clarify or check the actual file name.)
-
 Please refer to the respective folders and files for more details on the project's implementation and documentation.
 
 Note: This README file serves as a brief overview of the repository's contents. For detailed information on the project, please refer to the project report and presentation documents in the respective folders. For code implementation details, explore the files in the "Implementation" folder.
@@ -42,3 +37,4 @@ Note: This README file serves as a brief overview of the repository's contents. 
 For any questions or inquiries, please feel free to contact the project contributors.
 
 Thank you for visiting this repository!
+
